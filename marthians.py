@@ -20,3 +20,4 @@ for i in range(3):
         print(sum_weight)
         if sum_weight == total_weight:
             print("Congrats")
+#gfjhwsjdhwgdjhgwgujgsghj
